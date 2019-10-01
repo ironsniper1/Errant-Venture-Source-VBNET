@@ -1,0 +1,120 @@
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : ORIWD-MJKZYFY
+   Primary Dns Suffix  . . . . . . . : ds.vanderbilt.edu
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+   DNS Suffix Search List. . . . . . : ds.vanderbilt.edu
+                                       dhcp.mc.vanderbilt.edu
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . : dhcp.mc.vanderbilt.edu
+   Description . . . . . . . . . . . : Intel(R) 82579LM Gigabit Network Connection
+   Physical Address. . . . . . . . . : CC-52-AF-45-05-78
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::e5ef:99d5:9c95:31a5%3(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 10.151.10.86(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : Monday, September 30, 2019 9:35:43 PM
+   Lease Expires . . . . . . . . . . : Thursday, October 3, 2019 9:37:30 PM
+   Default Gateway . . . . . . . . . : 10.151.10.1
+   DHCP Server . . . . . . . . . . . : 10.108.51.19
+   DHCPv6 IAID . . . . . . . . . . . : 63722159
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-23-36-E2-F5-CC-52-AF-45-05-78
+   DNS Servers . . . . . . . . . . . : 10.108.51.18
+                                       10.150.51.18
+   Primary WINS Server . . . . . . . : 10.109.18.219
+   Secondary WINS Server . . . . . . : 10.125.17.219
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Ethernet adapter VirtualBox Host-Only Network:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : VirtualBox Host-Only Ethernet Adapter
+   Physical Address. . . . . . . . . : 0A-00-27-00-00-14
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::cc88:32f8:3b25:1f83%20(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.56.1(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+   DHCPv6 IAID . . . . . . . . . . . : 252313639
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-23-36-E2-F5-CC-52-AF-45-05-78
+   DNS Servers . . . . . . . . . . . : fec0:0:0:ffff::1%1
+                                       fec0:0:0:ffff::2%1
+                                       fec0:0:0:ffff::3%1
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Ethernet adapter Npcap Loopback Adapter:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Npcap Loopback Adapter
+   Physical Address. . . . . . . . . : 02-00-4C-4F-4F-50
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::34e7:1dea:529:c2c4%19(Preferred) 
+   Autoconfiguration IPv4 Address. . : 169.254.194.196(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.0.0
+   Default Gateway . . . . . . . . . : 
+   DHCPv6 IAID . . . . . . . . . . . : 721551436
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-23-36-E2-F5-CC-52-AF-45-05-78
+   DNS Servers . . . . . . . . . . . : fec0:0:0:ffff::1%1
+                                       fec0:0:0:ffff::2%1
+                                       fec0:0:0:ffff::3%1
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Ethernet adapter VMware Network Adapter VMnet1:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : VMware Virtual Ethernet Adapter for VMnet1
+   Physical Address. . . . . . . . . : 00-50-56-C0-00-01
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::a0da:61f2:2bea:7acc%9(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.132.1(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : Monday, September 30, 2019 9:35:28 PM
+   Lease Expires . . . . . . . . . . : Tuesday, October 1, 2019 2:24:01 PM
+   Default Gateway . . . . . . . . . : 
+   DHCP Server . . . . . . . . . . . : 192.168.132.254
+   DHCPv6 IAID . . . . . . . . . . . : 218124374
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-23-36-E2-F5-CC-52-AF-45-05-78
+   DNS Servers . . . . . . . . . . . : fec0:0:0:ffff::1%1
+                                       fec0:0:0:ffff::2%1
+                                       fec0:0:0:ffff::3%1
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Ethernet adapter VMware Network Adapter VMnet8:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : VMware Virtual Ethernet Adapter for VMnet8
+   Physical Address. . . . . . . . . : 00-50-56-C0-00-08
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::78fd:ccd6:dcbc:f605%13(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.80.1(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : Monday, September 30, 2019 9:35:43 PM
+   Lease Expires . . . . . . . . . . : Tuesday, October 1, 2019 2:24:01 PM
+   Default Gateway . . . . . . . . . : 
+   DHCP Server . . . . . . . . . . . : 192.168.80.254
+   DHCPv6 IAID . . . . . . . . . . . : 234901590
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-23-36-E2-F5-CC-52-AF-45-05-78
+   DNS Servers . . . . . . . . . . . : fec0:0:0:ffff::1%1
+                                       fec0:0:0:ffff::2%1
+                                       fec0:0:0:ffff::3%1
+   Primary WINS Server . . . . . . . : 192.168.80.2
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Ethernet adapter Bluetooth Network Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Bluetooth Device (Personal Area Network)
+   Physical Address. . . . . . . . . : BC-14-EF-61-78-D4
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
